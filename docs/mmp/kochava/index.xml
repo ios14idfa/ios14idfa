@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kochava on iOS 14 IDFA</title>
+    <link>https://ios14idfa.github.io/mmp/kochava/</link>
+    <description>Recent content in Kochava on iOS 14 IDFA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 04 Aug 2020 07:15:11 +0200</lastBuildDate>
+    
+	<atom:link href="https://ios14idfa.github.io/mmp/kochava/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

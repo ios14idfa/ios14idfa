@@ -1,5 +1,6 @@
 baseURL = "https://ios14idfa.github.io/"
 title = "iOS 14 IDFA"
+publishDir = "docs"
 
 languageCode = "en-US"
 defaultContentLanguage = "en"
@@ -12,10 +13,11 @@ theme = "hugo-theme-learn"
 home = [ "HTML", "RSS", "JSON"]
 
 
+
 [params]
-  editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
-  description = "Documentation for Hugo Learn Theme"
-  author = "Mathieu Cornic"
+  editURL = "https://github.com/ios14idfa/ios14idfa.github.io/edit/master/content/"
+  description = "iOS14 IDFA"
+  author = "Silvestre Abruzzo"
   disableBreadcrumb = false
   disableNextPrev = true
   themeVariant = "site"

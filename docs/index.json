@@ -1,0 +1,162 @@
+[
+{
+	"uri": "https://ios14idfa.github.io/apple/",
+	"title": "Resources by Apple",
+	"tags": [],
+	"description": "",
+	"content": "On their portal Apple has a page that links all material related to privacy and IDFA.\nThis is the video of the training at the WWDC Your browser does not support the video tag.  SKAdNetwork is nowadays the buzzword. You can read more in the official documentation "
+},
+{
+	"uri": "https://ios14idfa.github.io/mmp/",
+	"title": "MMPs",
+	"tags": [],
+	"description": "",
+	"content": "  Appsflyer   branch   Kochava   Singular   Adjust   "
+},
+{
+	"uri": "https://ios14idfa.github.io/adnetworks/",
+	"title": "AdNetworks/Mediation",
+	"tags": [],
+	"description": "",
+	"content": "  AdColony   Fyber   MoPub   UnityAds   Vungle   "
+},
+{
+	"uri": "https://ios14idfa.github.io/dsps/",
+	"title": "DSPs",
+	"tags": [],
+	"description": "",
+	"content": "  DataSeat   LIFTOFF   "
+},
+{
+	"uri": "https://ios14idfa.github.io/other_vendors/",
+	"title": "Other Vendors",
+	"tags": [],
+	"description": "",
+	"content": "  AlgoLift   "
+},
+{
+	"uri": "https://ios14idfa.github.io/specs/",
+	"title": "Specs",
+	"tags": [],
+	"description": "",
+	"content": "   Vendor Link     Apple SKAdNetwork    Fyber Contextual App Targeting for the Post-IDFA Era    MoPub MoPub iOS 14 Support Proposal    Singular SKAN    Unity iOS 14 Support     "
+},
+{
+	"uri": "https://ios14idfa.github.io/about/",
+	"title": "About",
+	"tags": [],
+	"description": "",
+	"content": "Silvestre Abruzzo is the author of this tiny website. The purpose is to track relevant pages related to iOS14 + IDFA for me and my teams. If you would like to add a link or you see errors, feel free to open a pull request here or send an email .\n"
+},
+{
+	"uri": "https://ios14idfa.github.io/",
+	"title": "iOS 14 IDFA",
+	"tags": [],
+	"description": "",
+	"content": "iOS 14 IDFA During the WWDC Apple announced deep changes on how users can be identified on iOS 14+ and how identifies can be used. Ad Tech companies started an intense work of preparation, coming up with proposals, guidelines and explanations. The purpose of this site is to collect all the material regarding this topic so that we have an authoritative snapshot of all material.\n Resources by Apple     MMPs    Appsflyer     branch     Kochava     Singular     Adjust      AdNetworks/Mediation    AdColony     Fyber     MoPub     UnityAds     Vungle      DSPs    DataSeat     LIFTOFF      Other Vendors    AlgoLift      Specs     About     "
+},
+{
+	"uri": "https://ios14idfa.github.io/mmp/appsflyer/",
+	"title": "Appsflyer",
+	"tags": [],
+	"description": "",
+	"content": "   Date Link     Aug 3, 2020 Maximizing SKAdNetwork insights with AppsFlyer    Jul 27, 2020 Aggregated attribution innovation based on differential privacy     "
+},
+{
+	"uri": "https://ios14idfa.github.io/mmp/branch/",
+	"title": "branch",
+	"tags": [],
+	"description": "",
+	"content": "   Date Link     July 22, 2020 What Is the IDFA? Learn What It’s Used for — and Why iOS 14 Killed It    July 14, 2020 The Limitations of SKAdNetwork – Pros and Cons vs. an MMP for Mobile Tracking    July 13, 2020 iOS 14 – Frequently Asked Questions About What’s Changing, How to Adapt to the IDFA Going Away, and What This Means for the Industry    June 26, 2020 How To Prepare Your Mobile App and Attribution Stack for Apple’s iOS 14 Privacy and IDFA Changes    June 25, 2020 The App Attribution Industry Is Dead. Embrace the Post-IDFA Era with Branch     "
+},
+{
+	"uri": "https://ios14idfa.github.io/mmp/kochava/",
+	"title": "Kochava",
+	"tags": [],
+	"description": "",
+	"content": "   Date Link     Jul 31, 2020 Solving for Attribution on iOS 14 with Kochava    Jul 14, 2020 Kochava Fundamentally Changes Digital Advertising with a Unified Privacy-First Identity Solution     Jul 9, 20200 Getting Prepared for iOS 14    Jul 1, 2020 Apple’s SKAdNetwork–More Questions Than Answers    Jun 25, 2020 Apple Announcements at WWDC 2020 Challenge Marketers to Tap Alternative Marketing Solutions     "
+},
+{
+	"uri": "https://ios14idfa.github.io/mmp/singular/",
+	"title": "Singular",
+	"tags": [],
+	"description": "",
+	"content": "   Date Link     July 31, 2020 Prepping for iOS 14 and the loss of the IDFA: What Nebo Radovic, Growth Lead at N3TWORK is doing    July 24, 2020 The future of iOS Attribution: Visualizing the crossroads for mobile measurement    July 17, 2020 Post-IDFA user acquisition: EA’s Jayne Peressini on iOS 14 and the future of mobile marketing    July 14, 2020 Mobile Tutorial Series – What is an IDFA or Apple Identifier for Advertisers?    July 9, 2020 SKAN: A practical standard for the implementation of SKAdNetwork    July 7, 2020 iOS 14 and MMPs: Where we stand right now    July 2, 2020 iOS 14 and the deprecation of the IDFA: Answers to your questions    June 26, 2020 SKAdNetwork code: Singular releases Github repository with code for ad networks, publishers, advertisers    June 25, 2020 SKAdNetwork 101: What is it? What does it mean for you?    June 24, 2020 IDFA iOS 14 FAQ: What’s true, what’s fake, and what’s total fantasy    June 23, 2020 Singular announces first-to-market SKAdNetwork support to replace the IDFA    June 22, 2020 iOS 14: IDFA is not dead yet, but it’s definitely on life support     "
+},
+{
+	"uri": "https://ios14idfa.github.io/adnetworks/adcolony/",
+	"title": "AdColony",
+	"tags": [],
+	"description": "",
+	"content": "   Date Link     Jul 29, 2020 iOS 14 — App Install Advertiser Update    Jul 22, 2020 iOS 14 — Brand \u0026amp;amp; Agencies Update    Jul 15, 2020 iOS 14 — Developer \u0026amp;amp; Publisher Update    Jul 2, 2020 Apple’s iOS 14 Privacy Changes — What You Need to Know    Jun 22, 2020 Highlights from Apple’s WWDC 2020     "
+},
+{
+	"uri": "https://ios14idfa.github.io/mmp/adjust/",
+	"title": "Adjust",
+	"tags": [],
+	"description": "",
+	"content": "   Date Link     Jul 29, 2020 Getting your company ready for iOS 14    Jul 3, 2020 Granular attribution compatible with iOS 14    Jun 30, 2020 The future of the ad ecosystem on iOS 14    Jun 24, 2020 Mobile measurement in iOS 14: Four possible scenarios    Jun 23, 2020 An update from Adjust on Apple’s user privacy changes     "
+},
+{
+	"uri": "https://ios14idfa.github.io/other_vendors/algolift/",
+	"title": "AlgoLift",
+	"tags": [],
+	"description": "",
+	"content": "   Date Link     Aug 4, 2020 Why is AlgoLift building probabilistic attribution?    July 27, 2020 Why a user-level LTV model is essential for post-iOS14 user acquisition    July 16, 2020 Probabilistic attribution for iOS14 — a deeper dive    July 14, 2020 iOS14: A proposed solution for the reduced efficacy of deterministic attribution     "
+},
+{
+	"uri": "https://ios14idfa.github.io/dsps/dataseat/",
+	"title": "DataSeat",
+	"tags": [],
+	"description": "",
+	"content": "   Date Link     July 16, 2020 A brief history of device identification – with David Philippson, co-founder and CEO of DataSeat     "
+},
+{
+	"uri": "https://ios14idfa.github.io/adnetworks/fyber/",
+	"title": "Fyber",
+	"tags": [],
+	"description": "",
+	"content": "   Date Link     July 9, 2020 Contextual app targeting in the post-IDFA era     "
+},
+{
+	"uri": "https://ios14idfa.github.io/dsps/liftoff/",
+	"title": "LIFTOFF",
+	"tags": [],
+	"description": "",
+	"content": "   Date Link     August 3, 2020 Here Comes iOS 14: What App Publishers and Suppliers Need to Do to Prepare    July 30, 2020 Marketers’ Thoughts on Upcoming Changes to the IDFA     "
+},
+{
+	"uri": "https://ios14idfa.github.io/adnetworks/mopub/",
+	"title": "MoPub",
+	"tags": [],
+	"description": "",
+	"content": "   Date Link      The evolution of mobile app advertising post iOS 14     "
+},
+{
+	"uri": "https://ios14idfa.github.io/adnetworks/unityads/",
+	"title": "UnityAds",
+	"tags": [],
+	"description": "",
+	"content": "It seems there is no blog post by Unity about iOS14 + IDFA. However in their documentation we see specs of how a bid request will reflect SDKAdNetwork parameters.\n"
+},
+{
+	"uri": "https://ios14idfa.github.io/adnetworks/vungle/",
+	"title": "Vungle",
+	"tags": [],
+	"description": "",
+	"content": "   Date Link     May 22nd 2020 Limit Ad Tracking: What You Need to Know     "
+},
+{
+	"uri": "https://ios14idfa.github.io/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://ios14idfa.github.io/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]
