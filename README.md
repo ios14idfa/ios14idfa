@@ -1,4 +1,2 @@
-# ios14idfa
-Text
-and more text
-and even more
+# ios14 idfa
+The website is built with [HUGO](https://gohugo.io/) and I am using the [hugo-learn-theme](https://github.com/matcornic/hugo-theme-learn). If you want to contribute feel free to do a pull request. The content of the site is all in the ./content directory. 

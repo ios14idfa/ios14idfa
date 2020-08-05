@@ -1,0 +1,26 @@
+baseURL = "https://ios14idfa.github.io/"
+title = "iOS 14 IDFA"
+
+languageCode = "en-US"
+defaultContentLanguage = "en"
+
+# Change the default theme to be use when building the site with Hugo
+theme = "hugo-theme-learn"
+
+# For search functionality
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+
+[params]
+  editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
+  description = "Documentation for Hugo Learn Theme"
+  author = "Mathieu Cornic"
+  disableBreadcrumb = false
+  disableNextPrev = true
+  themeVariant = "site"
+
+  # Shows a checkmark for visited pages on the menu
+  showVisitedLinks = false
+  # Disable search function. It will hide search bar
+  disableSearch = true
